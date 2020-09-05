@@ -6,7 +6,7 @@
 
 3. Start and Exit Terraforming mars.
 
-4. Download dll from release page and put it into ```..\steamapps\common\Terraforming Mars\BepInEx\Plugins``` folder.
+4. Download dll from [release](https://github.com/almenjonatan/terraforming-mars-speed-mod/releases) page and put it into ```..\steamapps\common\Terraforming Mars\BepInEx\Plugins``` folder.
 
 5. Start a local game, if pass button does not trigger a popup it works!
 
