@@ -2,7 +2,7 @@
 
 1. Download https://github.com/BepInEx/BepInEx/releases (BepInEx_x64 most likely)
 
-2. Extract that content from BepInEx into Terraforming mars root folder ```...\steamapps\common\Terraforming Mars```
+2. Extract that content from BepInEx zip file into Terraforming mars root folder ```...\steamapps\common\Terraforming Mars```
 
 3. Start and Exit Terraforming mars.
 
