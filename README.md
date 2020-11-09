@@ -2,7 +2,7 @@
 
 Close Terraforming Mars if open.
 
-Make sure you are on the latest version of Terraforming Mars, _not_ beta version.
+Make sure you are on the latest version of Terraforming Mars
 
 1. Install https://melonwiki.xyz/#/?id=automated-installation
 
